@@ -31,4 +31,4 @@ Tambien estudio
 + Bases de datos
 * Bases de datos
 
-{WEB DEL COLEGIO}(https://sanviatorvalladolid.com/)
+{WEB DEL COLEGIO} (https://sanviatorvalladolid.com/)
