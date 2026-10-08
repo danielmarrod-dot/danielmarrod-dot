@@ -28,5 +28,5 @@ Estoy Estudiando
 
 Tambien estudio
 - Bases de datos
-- Bases de datos
-- Bases de datos
++ Bases de datos
+* Bases de datos
