@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 # Daniel
 ## Me encantan las bases de datos
 ### Me encantan las bases de datos
+Soy **alumno** del *colegio* ***San Viator***
+
+
+Estoy Estudiando
+1. Programación
+2. Bases de datos
+3. Bases de datos
