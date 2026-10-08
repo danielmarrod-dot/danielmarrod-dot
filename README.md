@@ -34,4 +34,4 @@ Tambien estudio
 [web del colegio](https://sanviatorvalladolid.com/)
 
 Instrucciones para crear un fichero.
-1. Sitúate en el directorio que quieras con el comando`d` 
+1. Sitúate en el directorio que quieras con el comando`d <directorio>` 
